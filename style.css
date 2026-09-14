@@ -1,56 +1,46 @@
-/* Anything between these two tags will be ignored by the browser */
-
-h1 {
-    color: red;
+.p {
+    color: #FF0011;
+    background-color: #d3cbff;
 }
 
-/*
-p {
-    color: #ffd900;
-    background-color: #001d13;
-}
-*/
-
-.secondtext {
-    color: #00ff4c;
-    background-color: #110072;
+.h1 {
+    color: #0000FF;
+    background-color: #5a0000;
 }
 
-#specialID {
-    color: #ffffff;
-    background-color: #ff0000;
+.h2 {
+    color: #00ff0d;
+    background-color: #500000;
 }
 
-.orangebg {
-    background-color: #ff6600;
+.h3 {
+    color: #ff00f0;
+    background-color: #120035;
 }
 
-.spanstyle {
-    color: #1e1ed1;
+.li {
+    color: #48009b;
+    background-color: #ffd0d0;
 }
 
 a {
-    color: #FF0000;
-    text-decoration: none;
-}
-
-a:link {
-    color: #00FF00;
-}
-
-a:visited {
-    color: #0000FF;
-}
-
-a:active {
-    color: #00FFFF;
+  color: red;
 }
 
 a:hover {
-    color: #ff00ff;
-    text-decoration: underline;
+  color: yellow;
+} 
+
+a:visited {
+  color: green;
 }
 
-footer {
-    background-color: green;
+.span {
+  color: red;
+  background-color: #ffd0d0;
+}
+
+#standards {
+  color: #00ff0d;
+  background-color: #500000;
 }
