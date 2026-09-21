@@ -1,46 +1,80 @@
+body {
+    background-color: #EEEEEE;
+    background-image: url(Posters.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
 .p {
     color: #FF0011;
     background-color: #d3cbff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+.pc {
+  text-align: center;
+}
+
+.pj {
+  text-align: justify;
+}
 .h1 {
-    color: #0000FF;
-    background-color: #5a0000;
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .h2 {
-    color: #00ff0d;
-    background-color: #500000;
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .h3 {
-    color: #ff00f0;
-    background-color: #120035;
+    color: orange;
+    font-style: italic;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .li {
     color: #48009b;
     background-color: #ffd0d0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
   color: red;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 a:hover {
   color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
 } 
 
 a:visited {
   color: green;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .span {
   color: red;
   background-color: #ffd0d0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .standards {
   color: #bbf1ff;
   background-color: #000000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgbox {
+    border: 5px solid red;
+    padding: 10px;
+    margin: 20px;
+    background-color: yellow;
 }
